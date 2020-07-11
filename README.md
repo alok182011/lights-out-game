@@ -1,4 +1,4 @@
-# lights-out-game
+# Lights-Out-Game
 
 ## This is an old game called Lights Out.
 
