@@ -4,4 +4,4 @@
 
 ### It is made with React completely and styled with CSS.
 
-# (Play)[https://lights-out-game-play.netlify.app/] 
+# [Play](https://lights-out-game-play.netlify.app/)
